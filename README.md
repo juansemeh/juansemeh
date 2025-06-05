@@ -13,11 +13,11 @@ Currently exploring the intersection of AI and database management systems, I'm 
 ## 🛠 Skills
 📺 Client sided skills 
 
-[![My CSkills](https://skillicons.dev/icons?i=js,ts,tailwind,next,vue,npm,html,css)](https://skillicons.dev)
+[![My CSkills](https://skillicons.dev/icons?i=js,ts,tailwind,next,vue,html,css)](https://skillicons.dev)
 
 🖥️ Server sided Skills
 
-[![My SSkills](https://skillicons.dev/icons?i=postgresql,mysql,python,flask,django,rust)](https://skillicons.dev)
+[![My SSkills](https://skillicons.dev/icons?i=postgresql,mysql,python,flask,django,rust,node,npm)](https://skillicons.dev)
 
 🛫 Deploy knoledge 
 
