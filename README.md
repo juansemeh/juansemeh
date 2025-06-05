@@ -17,7 +17,7 @@ Currently exploring the intersection of AI and database management systems, I'm 
 
 🖥️ Server sided Skills
 
-[![My SSkills](https://skillicons.dev/icons?i=postgresql,mysql,python,flask,django,rust,node,npm)](https://skillicons.dev)
+[![My SSkills](https://skillicons.dev/icons?i=postgresql,mysql,python,flask,django,rust,nodejs,npm)](https://skillicons.dev)
 
 🛫 Deploy knoledge 
 
